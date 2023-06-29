@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
  <head>
   <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
@@ -101,7 +101,3 @@ Courses
 <li>
 RS Schools Course "JavaScript/Front-end.Stage 0"(in progress)
 </li>
-</p>
-
-</body>
-</html>  
