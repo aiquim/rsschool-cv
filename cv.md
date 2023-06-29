@@ -1,6 +1,24 @@
-
- <head>
+<head>
   <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+  <title>ROMAN MUKHA</title>
+  <style>
+   .layer1 {
+    margin: 30px 450px;
+ .p {
+  font-family: Helvetica, "Trebuchet MS", Verdana, sans-serif;
+}
+ .h3 {
+  font-family: Helvetica, "Trebuchet MS", Verdana, sans-serif;
+}
+ .h1 {
+  font-family: Helvetica, "Trebuchet MS", Verdana, sans-serif;
+ .h1 { line-height: 2;
+}
+ .h3 { line-height: 2;
+}
+ .p { line-height: 1;
+}
+  </style>
  </head> 
  <body> 
    <div class="layer1">
@@ -100,3 +118,4 @@ Courses
 <li>
 RS Schools Course "JavaScript/Front-end.Stage 0"(in progress)
 </li>
+</p>
