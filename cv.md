@@ -2,7 +2,6 @@
 <html>
  <head>
   <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-  <title>ROMAN MUKHA</title>
  </head> 
  <body> 
    <div class="layer1">
