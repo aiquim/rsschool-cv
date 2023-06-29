@@ -1,1 +1,1 @@
-# rsschool-cv
+https://aiquim.github.io/rsschool-cv/cv
