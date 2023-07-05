@@ -1,1 +1,1 @@
-https://aiquim.github.io/rsschool-cv/cv
+https://aiquim.github.io/rsschool-cv/
